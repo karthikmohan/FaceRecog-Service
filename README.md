@@ -84,5 +84,7 @@ Tool for design slqlite http://sqlitebrowser.org/
 ## Videos
 Full playlist: https://www.youtube.com/playlist?list=PLFaW_8zE4amMZxCOYt7954AaP397_tMFc
 
-
+# For Servers
+https://github.com/tabvn/face-recognition-service
+gunicorn3 -b 164.52.201.151:5000 wsgi:app --daemon
 
