@@ -1,5 +1,4 @@
-# face-recognition-service
-<a href="https://www.youtube.com/playlist?list=PLFaW_8zE4amMZxCOYt7954AaP397_tMFc">Face recognition online service</a>, allow user training it.
+# face-recognition-service allow user training it.
 
 ## IDE for Python Development Pycharm
 
@@ -85,6 +84,6 @@ Tool for design slqlite http://sqlitebrowser.org/
 Full playlist: https://www.youtube.com/playlist?list=PLFaW_8zE4amMZxCOYt7954AaP397_tMFc
 
 # For Servers
-https://github.com/tabvn/face-recognition-service
+https://github.com/karthikmohan/face-recognition-service
 gunicorn3 -b 164.52.201.151:5000 wsgi:app --daemon
 
